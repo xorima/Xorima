@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Jason Field
+Award winning DevOps Engineer with a first class honours degree in Computing and Information Systems. 
 <!--
 **Xorima/Xorima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xorima)
+[![GitHub Game of Life](https://github4life.herokuapp.com/Xorima.gif?z=6)](https://github4life.herokuapp.com/Xorima)
 -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Xorima&show_icons=true&theme=gruvbox)
+
+
+
